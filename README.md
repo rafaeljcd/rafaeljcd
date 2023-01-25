@@ -1,16 +1,17 @@
-### Hi there 👋
+### Bio
 
-<!--
-**rafaeljcd/rafaeljcd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A software developer with experience on building python and android apps. I also know AWS services. Currently studying again in te hopes of getting a new job. Wish me luck!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Social Media
+
+
+- Twitter [@RafaelJ_D](https://twitter.com/RafaelJ_D)
+- LinkedIn [rafael-joseph-dichoso](https://www.linkedin.com/in/rafael-joseph-dichoso/)
+
+
+
+### Certification
+
+- [Machine Learning by Stanford University & DeepLearning.AI](https://coursera.org/share/7785033a7b95154a9e08a27e4b42752c)
