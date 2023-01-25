@@ -1,6 +1,6 @@
 ## Bio
 
-A software developer with experience on building python and android apps. I also know AWS services. Currently studying again in te hopes of getting a new job. Wish me luck!
+A software developer with experience on building python and android apps. I also know some AWS services. Currently studying again in the hopes of getting a new job. Wish me luck!
 
 
 
