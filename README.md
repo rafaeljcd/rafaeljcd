@@ -4,7 +4,7 @@ A software developer with experience on building python and android apps. I also
 
 
 
-## Social Media
+## Links
 
 
 - Twitter [@RafaelJ_D](https://twitter.com/RafaelJ_D)
